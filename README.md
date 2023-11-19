@@ -117,8 +117,3 @@
 
 ###
 
-<hr>
-
-<img src="https://raw.githubusercontent.com/mastergokul/mastergokul/output/snake.svg" alt="Snake animation" />
-
-###
