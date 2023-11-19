@@ -7,16 +7,16 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/gokul1308" target="_blank" style="text-decoration:none !important;">
+  <a href="https://linkedin.com/in/gokul1308" target="_blank" style="text-decoration:none;" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
-  <a href="https://www.codechef.com/users/mastergokul" target="blank"  style="text-decoration:none">
+  <a href="https://www.codechef.com/users/mastergokul" target="blank"  style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B362C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo"  />
   </a>
-  <a href="https://www.hackerrank.com/gokul1308" target="_blank" style="text-decoration:none">
+  <a href="https://www.hackerrank.com/gokul1308" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="https://leetcode.com/MASTERGOKUL/" target="_blank" style="text-decoration:none">
+  <a href="https://leetcode.com/MASTERGOKUL/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=282828&logoColor=FFA116&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
