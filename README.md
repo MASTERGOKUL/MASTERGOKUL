@@ -45,7 +45,7 @@
   - 💬 Ask me about **Web Technologies**<br><br>
   - 📫 How to reach me **gokul.al21@bitsathy.ac.in , selvarajgokul09@gmail.com**<br><br>
   - ⚡ Fun fact **Linux 🐧 Lover but using it in VM 🫠**<br><br>
-  - 🦾 **There is no place like 127.0.0.1**
+  - 🦾 Believer,**There is no place like 127.0.0.1** and I'm just adore it!
 
 
 ###
