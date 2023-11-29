@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ChatWithQA - Summary</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+  </head>
+  <body>
+    <div class="center">
+      <h1 id="heading_summary">Hey am I good at listening, <br>If not kindly change me</h1>
+      <div class="flex">
+        <img src="../static/img/female3.jpg" id="female3">
+        <span>
+
+      <ul id="list">
+        {% for response in responses %}
+        <h3>{{pre_defined_questions[response]}}</h3>
+        <input
+        class="inputs"
+          type="text"
+          value="{{ responses[response] }}"
+          name="{{response}}"
+        />
+        {% endfor %}
+      </ul>
+
+        </span>
+        </div>
+       <form method="post">
+        <button type="submit" class="btn">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
