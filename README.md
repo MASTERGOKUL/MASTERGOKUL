@@ -41,7 +41,6 @@
 
   - 🔭 I’m currently working on **Websites and Machine Learning**<br><br>
   - 🌱 I’m currently learning **Linux , Networking , NLP, Deep Learning**<br><br>
-  - 🤝 I’m looking for help with **Front End Technologies**<br><br>
   - 💬 Ask me about **Web Technologies**<br><br>
   - 📫 How to reach me **gokul.al21@bitsathy.ac.in , selvarajgokul09@gmail.com**<br><br>
   - ⚡ Fun fact **Linux 🐧 Lover but using it in VM 🫠**<br><br>
